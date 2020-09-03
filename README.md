@@ -2,8 +2,8 @@
 
 A new Flutter application.
 Here design screenshots 
-![](/screenshots/Screenshot_2020-08-25-12-10-28-709_com.example.plants_app.jpg width=100,height=100)
-![](/screenshots/Screenshot_2020-08-25-12-30-23-634_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-08-25-12-10-28-709_com.example.plants_app.jpg width=50 height=50)
+![](/screenshots/Screenshot_2020-08-25-12-30-23-634_com.example.plants_app.jpg width=100 height=100)
 ![](/screenshots/Screenshot_2020-08-25-13-22-31-040_com.example.plants_app.jpg)
 ![](/screenshots/Screenshot_2020-08-25-13-30-20-042_com.example.plants_app.jpg)
 ![](/screenshots/Screenshot_2020-08-28-16-00-44-871_com.example.plants_app.jpg)
