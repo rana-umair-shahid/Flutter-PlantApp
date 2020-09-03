@@ -1,6 +1,16 @@
 # plants_app
 
 A new Flutter application.
+Here design screenshots 
+![](/screenshots/Screenshot_2020-08-25-12-10-28-709_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-08-25-12-30-23-634_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-08-25-13-22-31-040_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-08-25-13-30-20-042_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-08-28-16-00-44-871_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-08-28-16-01-04-611_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-08-28-16-01-10-330_com.example.plants_app.jpg)
+![](/screenshots/Screenshot_2020-09-02-13-10-54-395_com.example.plants_app.jpg)
+
 
 ## Getting Started
 
